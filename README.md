@@ -93,8 +93,12 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+
 <img width="463" height="212" alt="image" src="https://github.com/user-attachments/assets/3286e2c7-9ae1-4f04-bc0a-ee6d148ad7ae" />
-<img width="405" height="242" alt="image" src="https://github.com/user-attachments/assets/0d22bac0-6f56-4774-a774-56073a8c0f29" />
+
+
+<img width="1105" height="387" alt="image" src="https://github.com/user-attachments/assets/95865192-187d-4927-96cf-51661feb5baf" />
+
 
 
 ### Normalize -> Pre-Processing Technique:
