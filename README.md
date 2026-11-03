@@ -1,5 +1,7 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 03.11.2026
+### Name :Cholimgapuram Sai Likitha
+### Reg.no.:212224230046
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -91,6 +93,9 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="463" height="212" alt="image" src="https://github.com/user-attachments/assets/3286e2c7-9ae1-4f04-bc0a-ee6d148ad7ae" />
+<img width="405" height="242" alt="image" src="https://github.com/user-attachments/assets/0d22bac0-6f56-4774-a774-56073a8c0f29" />
+
 
 ### Normalize -> Pre-Processing Technique:
 
