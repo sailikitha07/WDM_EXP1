@@ -121,5 +121,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 <img width="463" height="212" alt="image" src="https://github.com/user-attachments/assets/3286e2c7-9ae1-4f04-bc0a-ee6d148ad7ae" />
 <img width="1105" height="387" alt="image" src="https://github.com/user-attachments/assets/95865192-187d-4927-96cf-51661feb5baf" />
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
